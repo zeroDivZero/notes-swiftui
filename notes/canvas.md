@@ -6,4 +6,8 @@ When hidden and shown, automatic preview update is paused. `Opt-Cmd-P` to resume
 
 **Live Preview** button makes UI interactive as if it were run in simulator.
 
-Can drag `View` from library to canvas directly (also to code for that matter). Corresponding code automatically added.
+## Show Library
+
+`View -> Show Library`, or `Shift-Cmd-L`. First panel in library view shows all view types. Can drag to canvas (or code). Corresponding code automatically added.
+
+Second panel shows modifiers.
